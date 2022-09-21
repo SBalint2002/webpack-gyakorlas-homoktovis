@@ -1,0 +1,47 @@
+body {
+    background-image: url("/images/hatter.png");
+}
+
+.container{
+    width: 70%;
+}
+
+#headline{
+    background-color: orange;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+    font-size: 60px;
+}
+
+#menusor{
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
+
+#menu{
+    background-color: white;
+    font-style: italic;
+    color: orange;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+}
+
+.szelso{
+    width: 20%;
+}
+
+.grat{
+    margin-top: 20px;
+    background-color: orange;
+    padding: 15px;
+}
