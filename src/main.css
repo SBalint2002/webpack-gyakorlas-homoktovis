@@ -9,12 +9,7 @@ body {
 #headline{
     background-color: orange;
     font-weight: bold;
-}
-
-h1{
-    text-align: center;
-    padding: 40px;
-    font-size: 60px;
+    margin-top: 0;
 }
 
 #menusor{
@@ -40,8 +35,83 @@ a{
     width: 20%;
 }
 
-.grat{
-    margin-top: 20px;
+#cim {
+    font-weight: bold;
+    text-align: center;
+    padding: 40px;
+    font-size: 350%!important;
+}
+
+#grat{
+    margin-top: 10px;
     background-color: orange;
-    padding: 15px;
+    padding: 20px;
+}
+
+#bezaras{
+    float: right;
+}
+
+#homoktovis{
+    padding: 20px;
+    margin-top: 10px;
+    width: 100%;
+    background-color: white;
+}
+
+#bokor{
+    width: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.negyKep{
+    margin-top: 10px;
+}
+
+.negyKep img{
+    width: 100%;
+}
+
+.ketbekezdes{
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.ketbekezdes h3{
+    background-color: orange;
+}
+
+
+.bekezdesek{
+    background-color: white;
+}
+
+.pek{
+    padding: 10px;
+}
+
+.cimek{
+    width: 100%;
+    padding: 10px;
+    background-color: orange;
+}
+
+#ellen{
+    margin-top: 20px;
+}
+
+#info{
+    margin-top: 20px;
+}
+
+.bekezdescim{
+    padding: 10px;
+    background-color: orange;
+}
+
+.bekezdes{
+    padding: 10px;
+    background-color: white;
 }
